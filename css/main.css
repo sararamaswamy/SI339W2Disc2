@@ -1,0 +1,16 @@
+body {
+	background: #ddd;
+	padding: 0;
+	margin: 0;
+	height: 100vh;
+}
+h1 {
+	font-family: "Source Sans Pro", Calibri, Arial, sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	margin: 0;
+	text-align: center;
+	line-height: 100vh;
+	/*the parent of h1 is body/*
+
+}
